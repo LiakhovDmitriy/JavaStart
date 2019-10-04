@@ -196,30 +196,30 @@
 <li><strong>Занятие 6</strong>
     <ul>
         <li> 6.1<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex1Lev1.java">
+            <a href="/Lesson6/Ex1Lev1/src/Les6Ex1Lev1.java">
          Напишите метод который вернет максимальное число из массива целых чисел.<br>
             </a>
        </li>
         <li> 6.2<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex2Lev1.java">
+            <a href="/Lesson6/Ex2Lev1/src/Les6Ex2Lev1.java">
          Реализуйте метод параметрами которого являются - целое число, вещественное число и строка.<br>
          Возвращает он конкатенацию строки с суммой вещественного и целого числа.<br>
             </a>
        </li>
         <li> 6.3<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex3Lev1.java">
+            <a href="/Lesson6/Ex3Lev1/src/Les6Ex3Lev1.java">
          Реализуйте метод рисующий на экране прямоугольник из звездочек «*» — его параметрами будут целые числа <br>
          которые описывают длину и ширину такого прямоугольника.<br>
             </a>
        </li>
         <li> 6.4<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex4Lev1.java">
+            <a href="/Lesson6/Ex4Lev1/src/Les6Ex4Lev1.java">
          Напишите метод который вернет количество слов в строке текста.<br>
             </a>
        </li>
         <strong>Hard level</strong>
         <li> 6.5<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex5Lev2V2.java">
+            <a href="/Lesson6/Ex5Lev2/src/Les6Ex5Lev2.java">
          Существуют такие последовательности чисел<br>
          0,2,4,6,8,10,12<br>
          1,4,7,10,13<br>
@@ -232,7 +232,7 @@
             </a>
        </li>
         <li> 6.6<br>
-            <a href="/src/A1/prog/kiev/Lesson6/Ex6Lev2.java">
+            <a href="/Lesson6/Ex6Lev2/src/Les6Ex6Lev2.java">
          Число-палиндром с обеих сторон (справа налево и слева направо) читается одинаково. Самое большое число-палиндром,<br> 
          полученное умножением двух двузначных чисел – 9009 = 91 × 99. Найдите самый большой палиндром, <br>
          полученный умножением двух трехзначных чисел. (4 часа)<br>
@@ -243,30 +243,30 @@
 <li><strong>Занятие 7</strong>
     <ul>
         <li> 7.1<br>
-            <a href="/src/A1/prog/kiev/Lesson7/Ex1Lev1.java">
+            <a href="/Lesson7/Ex1Lev1/src/Les7Ex1Lev1.java">
          Написать программу которая вернет количество миллисекунд прошедших от такого же числа, но в прошлом месяце <br>
          до сегодняшней даты. Например если сегодня 3 августа, то узнать сколько миллисекунд прошло с 3 июля.<br>
             </a>
        </li>
         <li> 7.2<br>
-            <a href="/src/A1/prog/kiev/Lesson7/Ex2Lev1.java">
+            <a href="/Lesson7/Ex2Lev1/src/Les7Ex2Lev1.java">
          Написать свой вариант метода Arrays.toString() для int[].<br>
             </a>
        </li>
         <li> 7.3<br>
-            <a href="/src/A1/prog/kiev/Lesson7/Ex3Lev1.java">
+            <a href="/Lesson7/Ex3Lev1/src/Les7Ex3Lev1.java">
          Ввести с консоли число в бинарном формате. Перевести его в десятичный и вывести на экран (“10” -> 2).<br>
             </a>
        </li>
         <li> 7.4<br>
-            <a href="/src/A1/prog/kiev/Lesson7/Ex4Lev1.java">
+            <a href="/Lesson7/Ex4Lev1/src/Les7Ex4Lev1.java">
          Выведите на экран 10 строк со значением числа Пи. Причем в первой<br>
          строке должно быть 2 знака после запятой, во второй 3, в третьей 4 и т.д.<br>
             </a>
        </li>
         <strong>Hard level</strong>
         <li> 7.5<br>
-            <a href="/src/A1/prog/kiev/Lesson7/Ex5Lev2.java">
+            <a href="/Lesson7/Ex5Lev3/src/Les7Ex5Lev2.java">
          Расстояние Хэмминга между двумя целыми числами - это число позиций, в которых биты различаются .<br>
          Для примера:<br>
          117 = 0 1 1 1 0 1 0 1<br>
